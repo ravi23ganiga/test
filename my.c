@@ -3,6 +3,6 @@
 int main()
 {
 	printf("test2 hello world!\n");
-	printf("my test test test world!");
+	printf("test merge world!");
 	return 0;
 }
